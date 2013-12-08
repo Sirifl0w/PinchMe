@@ -1,0 +1,9 @@
+Package: com.sirifl0w.pinchme
+Name: PinchMe
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Pinch to close folders on iOS 7. Go on, PinchMe!
+Maintainer: Sirifl0w
+Author: Sirifl0w
+Section: Tweaks
